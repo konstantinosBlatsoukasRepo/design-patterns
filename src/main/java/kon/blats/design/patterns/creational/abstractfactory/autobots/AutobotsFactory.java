@@ -1,9 +1,6 @@
-package kon.blats.design.patterns.creational.abstractfactory;
+package kon.blats.design.patterns.creational.abstractfactory.autobots;
 
-import kon.blats.design.patterns.creational.abstractfactory.autobots.Autobot;
-import kon.blats.design.patterns.creational.abstractfactory.autobots.Autobots;
-import kon.blats.design.patterns.creational.abstractfactory.autobots.Bumblebee;
-import kon.blats.design.patterns.creational.abstractfactory.autobots.OptimusPrime;
+import kon.blats.design.patterns.creational.abstractfactory.TransformersFactory;
 
 /**
  * Created by k.blatsoukas on 4/26/2018.

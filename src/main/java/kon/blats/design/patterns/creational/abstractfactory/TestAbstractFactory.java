@@ -2,8 +2,10 @@ package kon.blats.design.patterns.creational.abstractfactory;
 
 import kon.blats.design.patterns.creational.abstractfactory.autobots.Autobot;
 import kon.blats.design.patterns.creational.abstractfactory.autobots.Autobots;
+import kon.blats.design.patterns.creational.abstractfactory.autobots.AutobotsFactory;
 import kon.blats.design.patterns.creational.abstractfactory.decepticons.Decepticon;
 import kon.blats.design.patterns.creational.abstractfactory.decepticons.Decepticons;
+import kon.blats.design.patterns.creational.abstractfactory.decepticons.DecepticonsFactory;
 
 /**
  * Created by k.blatsoukas on 4/26/2018.

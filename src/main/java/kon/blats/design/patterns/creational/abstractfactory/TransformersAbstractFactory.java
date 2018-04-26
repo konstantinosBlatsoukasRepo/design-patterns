@@ -1,5 +1,8 @@
 package kon.blats.design.patterns.creational.abstractfactory;
 
+import kon.blats.design.patterns.creational.abstractfactory.autobots.AutobotsFactory;
+import kon.blats.design.patterns.creational.abstractfactory.decepticons.DecepticonsFactory;
+
 /**
  * Created by k.blatsoukas on 4/26/2018.
  */

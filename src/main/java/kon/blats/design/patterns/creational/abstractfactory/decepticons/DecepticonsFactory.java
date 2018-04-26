@@ -1,9 +1,6 @@
-package kon.blats.design.patterns.creational.abstractfactory;
+package kon.blats.design.patterns.creational.abstractfactory.decepticons;
 
-import kon.blats.design.patterns.creational.abstractfactory.decepticons.Decepticon;
-import kon.blats.design.patterns.creational.abstractfactory.decepticons.Decepticons;
-import kon.blats.design.patterns.creational.abstractfactory.decepticons.Megatron;
-import kon.blats.design.patterns.creational.abstractfactory.decepticons.Starscream;
+import kon.blats.design.patterns.creational.abstractfactory.TransformersFactory;
 
 /**
  * Created by k.blatsoukas on 4/26/2018.
