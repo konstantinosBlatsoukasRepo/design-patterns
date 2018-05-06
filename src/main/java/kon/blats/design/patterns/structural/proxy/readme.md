@@ -2,7 +2,7 @@
 
 When to use a proxy pattern:
 
-  - When you need to a intermediary point that is no actual
+  - When you need to a intermediary point that is not actual
     performing the action that you want, but performs some checks
     before that happens
     (proxy delegates the action to the appropriate object)
