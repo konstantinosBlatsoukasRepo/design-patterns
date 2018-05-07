@@ -7,7 +7,7 @@
   
   Divided in three main categories (as GOF):
   
-  1. Behavioural 
+  1. Behavioral
   2. Creational
   3. Structural
        
