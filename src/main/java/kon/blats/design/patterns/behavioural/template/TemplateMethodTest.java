@@ -1,4 +1,4 @@
-package kon.blats.design.patterns.behavioral.template;
+package kon.blats.design.patterns.behavioural.template;
 
 /**
  * Created by kon on 13/5/2018.
